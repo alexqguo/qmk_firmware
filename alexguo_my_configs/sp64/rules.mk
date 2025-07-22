@@ -1,0 +1,7 @@
+AUDIO_SUPPORTED = no
+
+CUSTOM_MATRIX = yes
+MOUSEKEY_ENABLE = yes
+
+SRC += matrix.c
+I2C_DRIVER_REQUIRED = yes
