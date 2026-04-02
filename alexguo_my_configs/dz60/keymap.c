@@ -32,7 +32,7 @@ for layout reference. not accurate to any layer
 		KC_CAPS, KC_VOLU, KC_WH_R, KC_MS_U, KC_WH_L, KC_WH_D, KC_NO, KC_NO, KC_UP, KC_NO, KC_NO, KC_NO, KC_NO,
 		KC_NO, KC_NO, KC_VOLD, KC_MS_L, KC_MS_D, KC_MS_R, KC_WH_U, KC_NO, KC_LEFT, KC_DOWN, KC_RGHT, KC_NO, KC_NO, KC_NO,
 		KC_NO, KC_NO, KC_NO, KC_BTN1, KC_BTN2, KC_BTN3, KC_NO, KC_NO, KC_NO, KC_NO, KC_DEL, KC_RSFT,
-		KC_NO, KC_LCTL, KC_ACL1, KC_ACL2, KC_NO, KC_NO, KC_BTN1, KC_NO, KC_NO, KC_NO
+		KC_NO, KC_LCTL, KC_ACL1, KC_ACL2, KC_NO, KC_BTN1, KC_NO, KC_NO, KC_NO, KC_NO
 	),
 
 	// Layer 2 - mouse. acl1 slow, acl2 fast
