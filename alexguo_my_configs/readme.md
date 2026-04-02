@@ -17,3 +17,4 @@ DZ60: `scp -r alexguo_my_configs/dz60/* keyboards/dz60/keymaps/ag`
 
 - create `ag` directory within dz60 keymaps if necessary
 - compile and flash normally: `qmk compile -kb dz60 -km ag`
+- atmega32u4
